@@ -1,4 +1,4 @@
 TP nivelador de: 
-BURGOS, Victoria Ethel, 
-MAJLIN Mateo Ivan y 
+BURGOS, Victoria Ethel, \n
+MAJLIN Mateo Ivan y \n
 MENDEZ Martín
